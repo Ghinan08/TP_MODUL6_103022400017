@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL6_103022400017\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55C96D4F-D59B-423E-815F-DDEDB02B1823}|TP_MODUL6_103022400017\\TP_MODUL6_103022400017.csproj|f:\\folder ghinan\\visual studio\\tp_modul6_103022400017\\tp_modul6_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55C96D4F-D59B-423E-815F-DDEDB02B1823}|TP_MODUL6_103022400017\\TP_MODUL6_103022400017.csproj|solutionrelative:tp_modul6_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A07367F6-86A6-ED4D-02CA-CC44D98DD6FC}|TP_MODUL6_103022400017\\TP_MODUL6_103022400017.csproj|f:\\folder ghinan\\visual studio\\tp_modul6_103022400017\\tp_modul6_103022400017\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07367F6-86A6-ED4D-02CA-CC44D98DD6FC}|TP_MODUL6_103022400017\\TP_MODUL6_103022400017.csproj|solutionrelative:tp_modul6_103022400017\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07367F6-86A6-ED4D-02CA-CC44D98DD6FC}|TP_MODUL6_103022400017\\TP_MODUL6_103022400017.csproj|f:\\folder ghinan\\visual studio\\tp_modul6_103022400017\\tp_modul6_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07367F6-86A6-ED4D-02CA-CC44D98DD6FC}|TP_MODUL6_103022400017\\TP_MODUL6_103022400017.csproj|solutionrelative:tp_modul6_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SayaMusicTrack.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL6_103022400017\\TP_MODUL6_103022400017\\SayaMusicTrack.cs",
+              "RelativeDocumentMoniker": "TP_MODUL6_103022400017\\SayaMusicTrack.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL6_103022400017\\TP_MODUL6_103022400017\\SayaMusicTrack.cs",
+              "RelativeToolTip": "TP_MODUL6_103022400017\\SayaMusicTrack.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:42:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL6_103022400017\\TP_MODUL6_103022400017\\Program.cs",
               "RelativeDocumentMoniker": "TP_MODUL6_103022400017\\Program.cs",
               "ToolTip": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL6_103022400017\\TP_MODUL6_103022400017\\Program.cs",
               "RelativeToolTip": "TP_MODUL6_103022400017\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T15:09:55.638Z",
               "EditorCaption": ""
